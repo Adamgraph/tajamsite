@@ -3,21 +3,18 @@
   padding: 0;
   box-sizing: 0;
 }
-<<<<<<< HEAD
-=======
 
->>>>>>> 7574fe2abe3e6a1084f0f120b0188923d508ec7e
 /*links have no underline*/
 a {
   text-decoration: none;
   color: #fa8d8f;
 }
 
-<<<<<<< HEAD
+
 header {
-  background-image: url("bgkheader.png");
+  background-image: url("bgk-header.png");
   background-repeat: no-repeat;
-  padding: 11px ;
+  padding: 11px 133px;
   height: 700px;
   width: 120%;
   z-index:1;
@@ -25,60 +22,23 @@ header {
   background-size: cover;
 }
 
-nav {
-  margin: 10px 0px 0px 122px;
-  padding: 4px 54px;
-  background-image: url("toplogo.png");
-=======
-
-header {
-  background-image: url("bgk-header.png");
-  background-repeat: no-repeat;
-  
-x  position: fixed;
-
-  padding: 11px 133px;
-
-height: 700px;
- x width: 120%;
- x z-index:1;
-  font-size: 22px;
-
-x  -webkit-background-size: cover;
-x  -moz-background-size: cover;
-x  -o-background-size: cover;
-  background-size: cover;
-
-}
-
 
 nav {
   margin: 10px 0px 0px 22px;
   padding: 4px 54px;
   background-image: url("logo.png");
->>>>>>> 7574fe2abe3e6a1084f0f120b0188923d508ec7e
   height: 600px; 
   display: inline block;
   background-repeat: no-repeat; 
 }
 
-<<<<<<< HEAD
-nav li {
-  color: white;
-=======
 
 nav li {
   color: white;
-x font-family: 'Raleway', sans-serif;
->>>>>>> 7574fe2abe3e6a1084f0f120b0188923d508ec7e
   font-weight: 600;
   font-size: 12px;
   display: inline-block;
   padding: 12px 9px;
-<<<<<<< HEAD
-=======
-x width: 100px;
->>>>>>> 7574fe2abe3e6a1084f0f120b0188923d508ec7e
 }
 
 nav li:hover {
@@ -86,189 +46,37 @@ nav li:hover {
   transition: all 0.4s linear;
 }
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 7574fe2abe3e6a1084f0f120b0188923d508ec7e
 .symboltext {
   color: #65d4ca;
   font-size: 28px; 
   padding: 4px 0px;
   margin: 21px 0px;
-<<<<<<< HEAD
-  margin-right: 192px;
-}
-
-.container {
-  width: 70%;
-  margin: 122px 0px;
-  padding: 0px;
-  text-align: center;
-  color: white;
-}
-.container h1 {
-=======
   margin-right: 172px;
 }
 
 
-
-
-main {
-  text-align: center;
-  position: relative;
-  top: 80px;
-}
-
-main h1 {
-  color: #333;
-  font-family: 'Raleway', sans-serif;
-  font-weight: 600;
-  font-size: 60px;
-  margin-top: 0px;
-  padding-top: 80px;
-  margin-bottom: 80px;
-  text-transform: uppercase;
-}
-
-footer {
-  background-color: #333;
-  color: #fff;
-  padding: 30px 0;
-}
-
-footer p {
-  font-family: 'Raleway', sans-serif;
-  text-transform: uppercase;
-  font-size: 11px;
-}
-
 .container {
-  max-width: 940px;
-  margin: 0 auto;
-  padding: 0 10px;
-  text-align: center;
-}
-
-.jumbotron {
-  height: 800px;
-  background-image: url("bgk-header.png");
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-.btn-main {
-  background-color: #333;
-  color: #fff;
-  font-family: 'Raleway', sans-serif;
-  font-weight: 600;
-  font-size: 18px;
-  letter-spacing: 1.3px;
-  padding: 16px 40px;
-  text-decoration: none;
-  text-transform: uppercase;
-}
-
-.btn-default {
-  font-family: 'Raleway', sans-serif;
-  font-weight: 600;
-  font-size: 10px;
-  letter-spacing: 1.3px;
-  padding: 10px 20px;
-  text-decoration: none;
-  text-transform: uppercase;  
-  margin-bottom: 20px;      
-}
-
-.supporting {
-  padding-top: 125px;
-  padding-bottom: 100px;
-}
-
-.supporting .col {
-  font-family: 'Raleway', sans-serif;
-  text-align: center;
-  display: inline-block;
-  width: 200px;
-}
-
-.supporting img {
-  height: 32px;
-}
-
-.supporting h2 {
-  font-weight: 600;
-  font-size: 23px;
-  text-transform: uppercase;
-}
-
-.supporting p {
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 20px;
-  padding: 0 20px;
-  margin-bottom: 20px;
-}
-
-.supporting a {
-  background-color: white;
-  color: #333333;
-  font-family: 'Raleway', sans-serif;
-  font-weight: 600;
-  font-size: 12px;
-  letter-spacing: 1.3px;
-  text-decoration: none;
-  text-transform: uppercase;
-  padding: 10px;
-  margin-bottom: 10px;
-  border: 2px solid #333333; 
-}
-
-@media (max-width: 500px) {
-  main h1 {
-    font-size: 50px;
-    padding: 0 40px;
-  }
-
-  .supporting .col {
-    width: 100%;
-  }
-}
-
-
-
-.container1 {
   max-width: 940px;
   margin: 122px 0px;
   padding: 0px 10px;
   text-align: center;
   color: white;
 }
-.container1 h1 {
->>>>>>> 7574fe2abe3e6a1084f0f120b0188923d508ec7e
+.container h1 {
   margin-top: 22px;
   padding: 11px 10px;
   text-align: center;
 }
 
-<<<<<<< HEAD
 .container p {
-=======
-.container1 p {
->>>>>>> 7574fe2abe3e6a1084f0f120b0188923d508ec7e
   margin: 22px;
   padding: 11px 10px;
   text-align: center;
   font-size: 18px;
 }
 
-<<<<<<< HEAD
 .headerinformation {
-=======
-.jumbotron1 {
->>>>>>> 7574fe2abe3e6a1084f0f120b0188923d508ec7e
   height: 800px;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -280,13 +88,7 @@ footer p {
   background-color: ;
   border: solid  2px #65d4ca ;
   color: #65d4ca ;
-<<<<<<< HEAD
   font-weight: 600;
-=======
-x  font-family: 'Raleway', sans-serif;
-  font-weight: 600;
-x font-size: 18px;
->>>>>>> 7574fe2abe3e6a1084f0f120b0188923d508ec7e
   letter-spacing: 1.3px;
   padding: 16px 40px;
   text-decoration: none;
@@ -297,10 +99,7 @@ x font-size: 18px;
   border-bottom: solid  2px #65d4ca ;
   color: #65d4ca ;
   padding: 2px 45px;
-<<<<<<< HEAD
   font-size: 1px;
-=======
-font-size: 1px;
->>>>>>> 7574fe2abe3e6a1084f0f120b0188923d508ec7e
 }
+
 
