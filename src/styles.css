@@ -13,7 +13,7 @@ a {
 
 
 header {
-  background-image: url("bgk-header.png");
+  background-image: url("header.png");
   background-repeat: no-repeat;
   padding: 11px 133px;
   height: 700px;
@@ -27,7 +27,7 @@ header {
 nav {
   margin: 10px 0px 0px 22px;
   padding: 4px 54px;
-  background-image: url("logo.png");
+  background-image: url("logoup.png");
   height: 600px; 
   display: inline block;
   background-repeat: no-repeat; 
