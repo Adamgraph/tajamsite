@@ -3,16 +3,14 @@
   padding: 0;
   box-sizing: 0;
 }
-
 /*links have no underline*/
 a {
   text-decoration: none;
   color: #fa8d8f;
 }
 
-
 header {
-  background-image: url("bgk-header.png");
+  background-image: url("bgkheader.png");
   background-repeat: no-repeat;
   padding: 11px ;
   height: 700px;
@@ -22,16 +20,14 @@ header {
   background-size: cover;
 }
 
-
 nav {
   margin: 10px 0px 0px 122px;
   padding: 4px 54px;
-  background-image: url("logo.png");
+  background-image: url("toplogo.png");
   height: 600px; 
   display: inline block;
   background-repeat: no-repeat; 
 }
-
 
 nav li {
   color: white;
@@ -45,7 +41,6 @@ nav li:hover {
   color: #65d4ca;
   transition: all 0.4s linear;
 }
-
 
 .symboltext {
   color: #65d4ca;
