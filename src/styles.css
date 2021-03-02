@@ -27,9 +27,9 @@ nav {
   margin: 10px 0px 0px 22px;
   padding: 4px 54px;
   background-image: url("logoup.png");
-  height: 600px; 
+  height: 600px;
   display: inline block;
-  background-repeat: no-repeat; 
+  background-repeat: no-repeat;
 }
 
 
@@ -49,7 +49,7 @@ nav li:hover {
 
 .symboltext {
   color: #65d4ca;
-  font-size: 28px; 
+  font-size: 28px;
   padding: 4px 0px;
   margin: 21px 0px;
   margin-right: 172px;
@@ -102,3 +102,34 @@ nav li:hover {
   font-size: 1px;
 }
 
+footer {
+  background-image: url("bgk-footer.png");
+  background-repeat: no-repeat;
+  padding: 11px 133px;
+  height: 700px;
+  width: 120%;
+  z-index:1;
+  font-size: 22px;
+  background-size: cover;
+}
+
+.container h4 {
+  margin-top: 22px;
+  padding: 11px 10px;
+  text-align: center;
+}
+
+.container p {
+  margin: 22px;
+  padding: 11px 10px;
+  text-align: left;
+  font-size: 18px;
+}
+
+.container a{
+  color: white;
+  margin-top: 22px;
+  padding: 11px 10px;
+  text-align: center;
+  font-size: 18px;
+}
